@@ -1,3 +1,6 @@
 # hello-world
 my first project in github
-a test in here
+
+Hello, a request for a new programming language study
+
+and a new tech to master, like arduino or something else.
